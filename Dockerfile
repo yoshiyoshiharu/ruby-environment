@@ -1,6 +1,6 @@
 FROM ubuntu:20.04
 
-MAINTAINER haruki_yoshida
+LABEL maintainer="haruki_yoshida"
 
 LABEL description="ubuntu with rbenv image"
 
